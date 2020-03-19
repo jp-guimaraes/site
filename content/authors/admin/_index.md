@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: João Paulo Ferreira Guimarães
 
 # Username (this should match the folder name)
 authors:
@@ -10,19 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- Information Theory
+- Digital Signal Processing
 - Information Retrieval
 
 education:
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "joao.guimaraes@ifrn.edu.br"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Engenheiro de Computação pela Universidade Federal do Rio Grande do Norte (UFRN). Mestre e Doutor pelo Programa de Pós-Graduação em Engenharia Elétrica e Computação da UFRN (PPGEEC/UFRN). Foi pesquisador visitante (Visiting Research Scholar) na University of Texas at El Paso (UTEP). 
+Atualmente é Professor Efetivo do Instituo Federal de Educação Ciência e Tecnologia do Rio Grande do Norte (IFRN) no campus. Tem experiência com teoria da informação, aprendizado de máquina, processamento digital de sinais e robótica.
