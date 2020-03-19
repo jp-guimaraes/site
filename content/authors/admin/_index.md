@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Information Theory
 - Digital Signal Processing
-- Information Retrieval
+- Machine Learning
 
 education:
   courses:
