@@ -1,3 +1,18 @@
+---
+title: Minicurso Arduíno - Expotec IFRN/JC 2019
+date: "2019-11-19T08:48:00+01:00"
+draft: false
+share: false
+commentable: false
+editable: false
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
+---
+
+
 Olá pessoal,
 
 
