@@ -10,17 +10,17 @@
 
 [[main]]
   name = "Blog"
-  url = "#posts"
+  url = "blog/"
   weight = 20
 
 [[main]]
   name = "Ensino"
-  url = "#ensino"
+  url = "ensino/"
   weight = 30
 
 [[main]]
   name = "Pesquisa"
-  url = "#featured"
+  url = "pesquisa/"
   weight = 40
 
 [[main]]

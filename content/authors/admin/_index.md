@@ -76,4 +76,4 @@ user_groups:
 ---
 
 Engenheiro de Computação pela Universidade Federal do Rio Grande do Norte (UFRN). Mestre e Doutor pelo Programa de Pós-Graduação em Engenharia Elétrica e Computação da UFRN (PPGEEC/UFRN). Foi pesquisador visitante (Visiting Research Scholar) na University of Texas at El Paso (UTEP). 
-Atualmente é Professor Efetivo do Instituo Federal de Educação Ciência e Tecnologia do Rio Grande do Norte (IFRN) no campus. Tem experiência com teoria da informação, aprendizado de máquina, processamento digital de sinais e robótica.
+Atualmente é Professor Efetivo do Instituo Federal de Educação Ciência e Tecnologia do Rio Grande do Norte (IFRN) no campus João Câmara. Tem experiência com teoria da informação, aprendizado de máquina, processamento digital de sinais e robótica.
