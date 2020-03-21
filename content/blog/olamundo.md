@@ -5,6 +5,8 @@ draft: false
 share: false
 commentable: false
 editable: false
+tags: [meta, comunicados]
+feature: true
 
 # Optional header image (relative to `static/img/` folder).
 header:

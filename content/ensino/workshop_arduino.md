@@ -5,6 +5,7 @@ draft: false
 share: false
 commentable: false
 editable: false
+tags: [ensino, workshop, arduino]
 
 # Optional header image (relative to `static/img/` folder).
 header:

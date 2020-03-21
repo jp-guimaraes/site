@@ -20,22 +20,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ""
 
-# interests:
-# - Information Theory
-# - Digital Signal Processing
-# - Machine Learning
+interests:
+- Information Theory
+- Digital Signal Processing
+- Machine Learning
 
-# education:
-#   courses:
-#   - course: PhD in Artificial Intelligence
-#     institution: Stanford University
-#     year: 2012
-#   - course: MEng in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2009
-#   - course: BSc in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2008
+education:
+  courses:
+  - course: Doutorado PPGEeC/UFRN
+    institution: 
+    year: 2019
+  - course: Mestrado no Programa de Pós-graduação em Engenharia Elétrica e Computação (PPGEeC)
+    institution: UFRN
+    year: 2012
+  - course: Engenheiro de Computação
+    institution: Universidade Federal do Rio Grande do Norte (UFRN)
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -75,5 +75,4 @@ user_groups:
 - Visitors
 ---
 
-Engenheiro de Computação pela Universidade Federal do Rio Grande do Norte (UFRN). Mestre e Doutor pelo Programa de Pós-Graduação em Engenharia Elétrica e Computação da UFRN (PPGEEC/UFRN). Foi pesquisador visitante (Visiting Research Scholar) na University of Texas at El Paso (UTEP). 
-Atualmente é Professor Efetivo do Instituo Federal de Educação Ciência e Tecnologia do Rio Grande do Norte (IFRN) no campus João Câmara. Tem experiência com teoria da informação, aprendizado de máquina, processamento digital de sinais e robótica.
+Espaço para divulgação de atividades de ensino, pesquisa e extensão.
