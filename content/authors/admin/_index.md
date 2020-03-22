@@ -21,7 +21,7 @@ organizations:
 bio: ""
 
 interests:
-- Information Theory
+- Information Theoretic Learning
 - Digital Signal Processing
 - Machine Learning
 
