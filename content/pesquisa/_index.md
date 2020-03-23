@@ -26,3 +26,8 @@ Expert Systems with Applications, Volume 107, 2018, Pages 173-181, ISSN 0957-417
 1. [*J.P.F. Guimarães*, F. B. Da Silva, A. I. R. Fontes, R. Von Borries and A. De M. Martins, **"Complex Correntropy Applied to a Compressive Sensing Problem in an Impulsive Noise Environment,"** in IEEE Access, vol. 7, pp. 151652-151660, 2019](https://ieeexplore.ieee.org/document/8871128)
 
 Uma lista completa com todas as publicações pode ser encontrada no meu [Lattes](http://lattes.cnpq.br/8309552415999065).
+
+## Interesses:
+ - Information Theoretic Learning
+ - Digital Signal Processing
+ - Machine Learning

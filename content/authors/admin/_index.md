@@ -20,22 +20,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ""
 
-interests:
-- Information Theoretic Learning
-- Digital Signal Processing
-- Machine Learning
+# interests:
+# - Information Theoretic Learning
+# - Digital Signal Processing
+# - Machine Learning
 
-education:
-  courses:
-  - course: Doutorado PPGEeC/UFRN
-    institution: 
-    year: 2019
-  - course: Mestrado no Programa de Pós-graduação em Engenharia Elétrica e Computação (PPGEeC)
-    institution: UFRN
-    year: 2012
-  - course: Engenheiro de Computação
-    institution: Universidade Federal do Rio Grande do Norte (UFRN)
-    year: 2010
+# education:
+#   courses:
+#   - course: Doutorado PPGEeC/UFRN
+#     institution: 
+#     year: 2019
+#   - course: Mestrado no Programa de Pós-graduação em Engenharia Elétrica e Computação (PPGEeC)
+#     institution: UFRN
+#     year: 2012
+#   - course: Engenheiro de Computação
+#     institution: Universidade Federal do Rio Grande do Norte (UFRN)
+#     year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -54,9 +54,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/jp-guimaraes
-- icon: cv
+- icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/8309552415999065
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Joao_Paulo_Guimaraes
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -76,3 +79,18 @@ user_groups:
 ---
 
 Espaço para divulgação de atividades de ensino, pesquisa e extensão.
+
+
+## Formação:
+  - Doutorado 
+    - Título: "Correntropia Complexa: Definição, Propriededes e Aplicações"
+    - Ano: 2019
+    - Instituição: Programa de Pós-graduação em Engenharia Elétrica e Computação (PPGEeC)/Universidade Federal do Rio Grande do Norte(UFRN)
+  - Mestrado
+    - Título: "Controle de Atitude e Altitude De Um Veículo Aéreo Não Tripulado Do Tipo Quadrirrotor"
+    - Ano: 2012
+    - Instituição: PPGEeC/UFRN
+  - Graduação em Engenharia de Computação
+    - Título: "Projeto de um Veículo Aéreo Não Tripuado para Supervisão de Instalações de Petróleo e Gás"
+    - Ano: 2010
+    - UFRN
