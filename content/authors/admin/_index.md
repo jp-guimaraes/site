@@ -80,17 +80,3 @@ user_groups:
 
 Espaço para divulgação de atividades de ensino, pesquisa e extensão.
 
-
-## Formação:
-  - Doutorado 
-    - Título: "Correntropia Complexa: Definição, Propriededes e Aplicações"
-    - Ano: 2019
-    - Instituição: Programa de Pós-graduação em Engenharia Elétrica e Computação (PPGEeC)/Universidade Federal do Rio Grande do Norte(UFRN)
-  - Mestrado
-    - Título: "Controle de Atitude e Altitude De Um Veículo Aéreo Não Tripulado Do Tipo Quadrirrotor"
-    - Ano: 2012
-    - Instituição: PPGEeC/UFRN
-  - Graduação em Engenharia de Computação
-    - Título: "Projeto de um Veículo Aéreo Não Tripuado para Supervisão de Instalações de Petróleo e Gás"
-    - Ano: 2010
-    - UFRN
