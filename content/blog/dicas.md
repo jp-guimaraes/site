@@ -32,9 +32,9 @@ Sugiro assistir em ordem "cronológica":
 ## Livros
 
 1. Sapiens - Uma Breve História da Humanidade, Yuval Harari
-2. Fundação, Isaac Asimov
-3. A Revolução dos Bichos, George Orwell
-4. Sociedade do Cansaço, Byung-Chul Han
+1. A Revolução dos Bichos, George Orwell
+1. Sociedade do Cansaço, Byung-Chul Han
+1. Fundação, Isaac Asimov
 
 ## Podcasts
 
