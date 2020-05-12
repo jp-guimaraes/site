@@ -42,4 +42,4 @@ Sugiro assistir em ordem "cronológica":
 2. [Trip com Ciência](https://revistatrip.uol.com.br/tags/trip%E2%B8%BBcom%E2%B8%BBciencia)
 
 
-Aceito dicas : )
+Aceito sugestões : )
