@@ -15,7 +15,7 @@ header:
 
 
 
-[Organização e manutenção de Computadores](https://www.notion.so/Organiza-o-e-Manuten-o-de-Computadores-cf65e15053b04139a5745bc20f23e0a7)
+[Organização e manutenção de Computadores](jp-guimaraes.github.io/syllabus-orgman)
 
 
 
