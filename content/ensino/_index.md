@@ -15,7 +15,7 @@ header:
 
 
 
-[Organização e manutenção de Computadores](jp-guimaraes.github.io/syllabus-orgman)
+[Organização e manutenção de Computadores](https://jp-guimaraes.github.io/syllabus-orgman)
 
 
 
